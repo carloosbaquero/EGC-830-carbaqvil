@@ -12,3 +12,4 @@ class CensusAdmin(admin.ModelAdmin):
 
 admin.site.register(Census, CensusAdmin)
 #CAMBIO
+#n cxdsvd
